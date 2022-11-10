@@ -45,3 +45,8 @@ https://fred.stlouisfed.org/series/BAMLHYH0A0HYM2TRIV#0
 Dow Jones Industrial Average (DJIA)
 https://fred.stlouisfed.org/series/DJIA
 DJIA.csv
+
+
+Registered Foreclosure Properties
+https://data.lacity.org/browse?q=foreclosure&sortBy=relevance
+FORCLOSURE.csv
