@@ -9,4 +9,4 @@
 | DSG10.ipynb                   | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity Monthly, 08/2013 - 09/2022 |
 | NASDAQCOM.ipynb               | NASDAQ Composite Index (NASDAQCOM) (PERCENT CHANGE), Monthly 01/2012 - 10/2022                   |
 | ZIL_HVI.ipynb                 | Zillow Home Value Index (ZHVI) for All Homes (PERCENT CHANGE), Monthly 01/2012 - 10/2022         |
-| **1-Combine_Dataset.ipynb**   | Combine the separate CSV files into one dataset for future use.                                  |
+| 1-Combine_Dataset.ipynb       | Combine the separate CSV files into one dataset for future use.                                  |
