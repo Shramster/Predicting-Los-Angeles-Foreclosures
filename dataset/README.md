@@ -5,7 +5,7 @@
 | 1-Combine_Dataset.csv         | Combine the separate CSV files into one dataset for future use.                                  |
 | BAMLHYH0A0HYM2TRIV_PCH.csv    | ICE BofA US High Yield Index Total Return Index Value                                            |
 | CAUR.csv                      | California Unemployment Rate, Monthly 01/2012 - 09/2022                                          |
-| CPIAUCSL                      | Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL)          |
+| CPIAUCSL.csv                  | Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL)          |
 | DFF.csv                       | Federal Funds Effective Rate (DFF), Monthly 01/2013 - 10/2022                                    |
 | DSG10.csv                     | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity Monthly, 08/2013 - 09/2022 |
 | FORECLOSURE.csv               | Combined each years foreclosure data into a single csv file.                                     |
