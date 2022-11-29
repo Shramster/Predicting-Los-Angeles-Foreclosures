@@ -9,9 +9,8 @@
 | CA_UNEMP.csv | https://fred.stlouisfed.org/series/CAUR                  | Unemployment Rate in California (CAUR)                                                                       |
 | DSG10.csv    | https://fred.stlouisfed.org/series/DGS10                 | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) |
 | ZIL_HVI.csv  | https://fred.stlouisfed.org/series/CAUCSFRCONDOSMSAMID#0 | Zillow Home Value Index (ZHVI) for All Homes  (PERCENT CHANGE)                                               |
-| UNRATE.csv   | https://fred.stlouisfed.org/series/UNRATE                | Unemployment Rate (UNRATE)                                                                                   |
+| UNRATE.csv   | https://fred.stlouisfed.org/series/UNRATE                | Unemployment Rate (UNRATE)    |
 | NASDAQCOM.csv          | https://fred.stlouisfed.org/series/NASDAQCOM#0                | NASDAQ Composite Index (NASDAQCOM) (PERCENT CHANGE)                              |
 | BAMLHYH0A0HYM2TRIV.csv | https://fred.stlouisfed.org/series/BAMLHYH0A0HYM2TRIV#0       | ICE BofA US High Yield Index Total Return Index Value (BAMLHYH0A0HYM2TRIV) INDEX |
 | DJIA.csv               | https://fred.stlouisfed.org/series/DJIA                       | Dow Jones Industrial Average (DJIA)                                              |
-| FORCLOSURE.csv         | https://data.lacity.org/browse?q=foreclosure&sortBy=relevance |Registered Foreclosure Properties
-|
+| FORCLOSURE.csv         | https://data.lacity.org/browse?q=foreclosure&sortBy=relevance | Registered Foreclosure Properties |
