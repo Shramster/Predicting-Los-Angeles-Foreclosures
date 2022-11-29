@@ -1,19 +1,15 @@
 
 # Normalized CSVs used in Combined Data Set
 
-| File                          | Description                                                                                      |
-| :---                          | :---:                                                                                            |
-| CPILFESL.csv          | Combine the separate CSV files into one dataset for future use.                                  |
-
-
-Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average (CPILFESL)
-https://fred.stlouisfed.org/series/CPILFESL
+| File         | Link                                        | Description                                                                                       |
+| :---         | :---                                        | :---:                                                                                             |
+| CPILFESL.csv |                                             | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average |
+| CPIAUCSL.csv | https://fred.stlouisfed.org/series/CPIAUCSL | Consumer Price Index for All Urban Consumers: All Items in U.S. City Average                      |
 
 
 
 Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL)
-https://fred.stlouisfed.org/series/CPIAUCSL
-CPIAUCSL.csv
+
 
 
 Federal Funds Effective Rate (DFF) **** GOOD FOR US BAD FOR THE ECONOMY **
