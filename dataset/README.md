@@ -1,4 +1,4 @@
-# Utilities for normalization the CSVs
+# Normalized CSVs used in Combined Data Set
 
 | File                          | Description                                                                                      |
 | :---                          | :---:                                                                                            |
