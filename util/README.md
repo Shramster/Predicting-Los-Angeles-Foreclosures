@@ -13,3 +13,4 @@
 | NASDAQCOM.ipynb               | NASDAQ Composite Index (NASDAQCOM) (PERCENT CHANGE), Monthly 01/2012 - 10/2022                   |
 | README.md                     | Details on files in this folder                                                                  |
 | ZIL_HVI.ipynb                 | Zillow Home Value Index (ZHVI) for All Homes (PERCENT CHANGE), Monthly 01/2012 - 10/2022         |
+| RandomF_without_Jan.ipynb     | Trying to train without January's date to elimate the error brought by the peaks of every Jan    |
