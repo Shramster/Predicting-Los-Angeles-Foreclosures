@@ -3,7 +3,7 @@ A datascience project to predict housing foreclosure in Los Angeles.
 
 ## Explanation of Filetree:
 * /application - Contains .ipynb files applying algorithms
-- Linear Regression
+  - Linear Regression
 * /util - .ipynb files used to create CSV files for /application
 * /source - Contains unaltered CSV files used in /dataset
 * /dataset - Contains modified CSV files
