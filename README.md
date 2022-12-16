@@ -1,6 +1,5 @@
 # Prediction Foreclosures in Los Angeles
 A datascience project to predict housing foreclosure in Los Angeles.
-
 ##Explanation of Filetree:
 * /application - Contains .ipynb files applying algorithms
 * /util - .ipynb files used to create CSV files for application
