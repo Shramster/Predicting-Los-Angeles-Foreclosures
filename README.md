@@ -8,10 +8,10 @@ A datascience project to predict housing foreclosure in Los Angeles.
   - Random Forest Regresion
 * /util - .ipynb files used normalize feature data
 *   - Feature Data:
-*       30 Year Mortgage Rates
-*       Zillow Home Value Index
-*       Consumer Pricing Index
-*       etc
+*      -  30 Year Mortgage Rates
+*      -  Zillow Home Value Index
+*      -  Consumer Pricing Index
+*      -  etc
 *    
 * /source - Contains unaltered CSV files used in /dataset
 * /dataset - Contains modified CSV files
