@@ -3,7 +3,8 @@ Version Control for a Data Science Project
 ## Project Description
 A datascience project to predict housing foreclosure in Los Angeles.
 
-Explanation of Filetree:
+###Explanation of Filetree:
+
 *application - Contains .ipynb files applying algorithms
 *util - .ipynb files used to create CSV files for application
 *source - Contains unaltered CSV files used in /dataset
