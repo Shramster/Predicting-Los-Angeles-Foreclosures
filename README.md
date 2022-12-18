@@ -8,8 +8,8 @@ Each folder contains Python Notebook files or CSV that were used in our project.
 The workflow can be understood as follows:
 ### source -> util -> dataset -> application -> plots
  - /source : Original CSV files are stored here
- - /util : Notebook files to normalize data (and stored in /dataset)
- - /dataset : all normalized datastored here
+ - /util : Notebook files to normalize data 
+ - /dataset : all normalized datastore here
  - /application : reads data form /dataset and preforms predictions
  - /plots : Any images generated are held in /plots
 
