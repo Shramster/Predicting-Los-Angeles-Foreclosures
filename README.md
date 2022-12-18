@@ -5,6 +5,12 @@ simply clone the repository.
 Each folder contains Python Notebook files or CSV that were used in our project.  Descriptions of each folder and its function is described below.  Funcitonality of each folder was seperated so that source CSV files are only read from the /source directory and after normalization is performed the resulting files are stored in the /dataset directory.  This organization was used to allow a modular approach while retaining separation of functions.
 
 ## Explanation of Filetree:
+The workflow can be understood as follows:
+  source -> util -> dataset -> application -> plots
+  Original CSV files are stored in /source
+  Notebook files in util normalizes CSV files (and stored in /dataset)
+  Application reads data form /dataset and preforms predictions
+  Any images generated are held in /plots
 ### /application
 This folder contains all the final prediction models, imported CSV files are read from the /dataset directory.  File names describe which algorithms are used and any features that were created in that Notebook.
   - Linear Regression
