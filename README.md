@@ -6,11 +6,12 @@ Each folder contains Python Notebook files or CSV that were used in our project.
 
 ## Explanation of Filetree:
 The workflow can be understood as follows:
-source -> util -> dataset -> application -> plots
- - Original CSV files are stored in /source
- - Notebook files in util normalizes CSV files (and stored in /dataset)
- - Application reads data form /dataset and preforms predictions
- - Any images generated are held in /plots
+### source -> util -> dataset -> application -> plots
+ - /source : Original CSV files are stored here
+ - /util : Notebook files to normalize data (and stored in /dataset)
+ - /dataset : all normalized datastored here
+ - /application : reads data form /dataset and preforms predictions
+ - /plots : Any images generated are held in /plots
 
 ### /application
 This folder contains all the final prediction models, imported CSV files are read from the /dataset directory.  File names describe which algorithms are used and any features that were created in that Notebook.
