@@ -24,6 +24,7 @@ The dataset directory contains all normalized feature and label data in the form
 
 ### /plots
 The Notebook files in our application folder generate images using MatPlotLib. Files in this folder follow the naming of the Notebook file that generated them.
+![Linear Regression using Periodic time](https://github.com/Shramster/CS4661-Project/blob/main/plots/LinearRegression_Multiple_runs_with_isJan_periodic.png?raw=true)
 
 ### /source
 This directory contains unaltered CSV files that we gathered during our research. The README.md file contains a listing of the filename, description of the data and where it was found.
